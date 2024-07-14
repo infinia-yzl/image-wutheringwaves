@@ -96,12 +96,12 @@
   },
   {
     "filename": "c/xy.webp",
-    "tags": ["c_all", "c_rarity_5", "c_1_2"],
+    "tags": ["c_all", "c_rarity_5", "c_att_ele", "c_1_2"],
     "label": "Xiangli Yao"
   },
   {
     "filename": "c/zz.webp",
-    "tags": ["c_all", "c_rarity_5", "c_1_2"],
+    "tags": ["c_all", "c_rarity_5", "c_att_gla", "c_1_2"],
     "label": "Zhezhi"
   }
 ]
