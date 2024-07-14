@@ -1,53 +1,63 @@
 {
   "subject": [
     {
-      "name": "nature",
-      "title": "Nature",
-      "description": "Images of natural landscapes, flora, or fauna"
+      "name": "c_att_aer",
+      "title": "Aero Resonators",
+      "description": "Aero attribute Resonators."
     },
     {
-      "name": "tech",
-      "title": "Technology",
-      "description": "Images related to technological devices or concepts"
+      "name": "c_att_ele",
+      "title": "Electro Resonators",
+      "description": "Electro attribute Resonators."
     },
     {
-      "name": "people",
-      "title": "People",
-      "description": "Images featuring individuals or groups of people"
+      "name": "c_att_fus",
+      "title": "Fusion Resonators",
+      "description": "Fusion attribute Resonators."
+    },
+    {
+      "name": "c_att_gla",
+      "title": "Glacio Resonators",
+      "description": "Glacio attribute Resonators"
+    },
+    {
+      "name": "c_att_hav",
+      "title": "Havoc Resonators",
+      "description": "Havoc attribute Resonators"
+    },
+    {
+      "name": "c_att_spe",
+      "title": "Spectro Resonators",
+      "description": "Spectro attribute Resonators"
     }
   ],
   "version": [
     {
-      "name": "1_0_0",
-      "title": "Image set Version 1",
-      "description": "Images from Version 1"
+      "name": "c_1_0",
+      "title": "Resonators - Version 1",
+      "description": "Resonators from Version 1"
     },
     {
-      "name": "1_1_0",
-      "title": "Image set Version 1.1",
-      "description": "Images from Version 1.1"
+      "name": "c_1_1",
+      "title": "Resonators - Version 1.1",
+      "description": "Resonators from Version 1.1"
     },
     {
-      "name": "2_0_0",
-      "title": "Image set Version 2.0",
-      "description": "Images from Version 2"
+      "name": "c_1_2",
+      "title": "Resonators - Version 1.2",
+      "description": "Resonators from Version 1.2"
     }
   ],
   "general": [
     {
-      "name": "hq",
-      "title": "High Quality",
-      "description": "Images with exceptional clarity and detail"
+      "name": "c_rarity_5",
+      "title": "5-Star Resonators",
+      "description": "Resonators with a rarity of 5 stars"
     },
     {
-      "name": "colorful",
-      "title": "Colorful",
-      "description": "Images with a vibrant color palette"
-    },
-    {
-      "name": "monochrome",
-      "title": "Black and White",
-      "description": "Monochrome images"
+      "name": "c_rarity_4",
+      "title": "4-Star Resonators",
+      "description": "Resonators with a rarity of 4 stars"
     }
   ]
 }
