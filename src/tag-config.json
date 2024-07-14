@@ -50,6 +50,11 @@
   ],
   "general": [
     {
+      "name": "c_all",
+      "title": "All Resonators",
+      "description": "All Resonators that have been officially released or announced"
+    },
+    {
       "name": "c_rarity_5",
       "title": "5-Star Resonators",
       "description": "Resonators with a rarity of 5 stars"
