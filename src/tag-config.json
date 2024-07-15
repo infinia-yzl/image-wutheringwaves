@@ -3,17 +3,17 @@
     {
       "name": "c_att_aer",
       "title": "Aero Resonators",
-      "description": "Aero attribute Resonators."
+      "description": "Aero attribute Resonators"
     },
     {
       "name": "c_att_ele",
       "title": "Electro Resonators",
-      "description": "Electro attribute Resonators."
+      "description": "Electro attribute Resonators"
     },
     {
       "name": "c_att_fus",
       "title": "Fusion Resonators",
-      "description": "Fusion attribute Resonators."
+      "description": "Fusion attribute Resonators"
     },
     {
       "name": "c_att_gla",
