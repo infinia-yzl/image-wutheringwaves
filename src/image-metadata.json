@@ -294,9 +294,9 @@
         "description": "All Resonators who have been officially released or announced"
       },
       {
-        "name": "c_rarity_4",
-        "title": "4-Star Resonators",
-        "description": "Resonators with a rarity of 4 stars"
+        "name": "c_rarity_5",
+        "title": "5-Star Resonators",
+        "description": "Resonators with a rarity of 5 stars"
       },
       {
         "name": "c_att_hav",
