@@ -2,546 +2,210 @@
   {
     "filename": "c/aa.webp",
     "tags": [
-      {
-        "name": "c_all",
-        "title": "All Resonators",
-        "description": "All Resonators who have been officially released or announced"
-      },
-      {
-        "name": "c_rarity_4",
-        "title": "4-Star Resonators",
-        "description": "Resonators with a rarity of 4 stars"
-      },
-      {
-        "name": "c_att_aer",
-        "title": "Aero Resonators",
-        "description": "Aero attribute Resonators"
-      },
-      {
-        "name": "c_1_0",
-        "title": "Resonators - Version 1",
-        "description": "Resonators from Version 1"
-      }
+      "c_all",
+      "c_rarity_4",
+      "c_att_aer",
+      "c_1_0"
     ],
     "label": "Aalto"
   },
   {
     "filename": "c/bz.webp",
     "tags": [
-      {
-        "name": "c_all",
-        "title": "All Resonators",
-        "description": "All Resonators who have been officially released or announced"
-      },
-      {
-        "name": "c_rarity_4",
-        "title": "4-Star Resonators",
-        "description": "Resonators with a rarity of 4 stars"
-      },
-      {
-        "name": "c_att_gla",
-        "title": "Glacio Resonators",
-        "description": "Glacio attribute Resonators"
-      },
-      {
-        "name": "c_1_0",
-        "title": "Resonators - Version 1",
-        "description": "Resonators from Version 1"
-      }
+      "c_all",
+      "c_rarity_4",
+      "c_att_gla",
+      "c_1_0"
     ],
     "label": "Baizhi"
   },
   {
     "filename": "c/cc.webp",
     "tags": [
-      {
-        "name": "c_all",
-        "title": "All Resonators",
-        "description": "All Resonators who have been officially released or announced"
-      },
-      {
-        "name": "c_rarity_5",
-        "title": "5-Star Resonators",
-        "description": "Resonators with a rarity of 5 stars"
-      },
-      {
-        "name": "c_att_ele",
-        "title": "Electro Resonators",
-        "description": "Electro attribute Resonators"
-      },
-      {
-        "name": "c_1_0",
-        "title": "Resonators - Version 1",
-        "description": "Resonators from Version 1"
-      }
+      "c_all",
+      "c_rarity_5",
+      "c_att_ele",
+      "c_1_0"
     ],
     "label": "Calcharo"
   },
   {
     "filename": "c/cx.webp",
     "tags": [
-      {
-        "name": "c_all",
-        "title": "All Resonators",
-        "description": "All Resonators who have been officially released or announced"
-      },
-      {
-        "name": "c_rarity_4",
-        "title": "4-Star Resonators",
-        "description": "Resonators with a rarity of 4 stars"
-      },
-      {
-        "name": "c_att_fus",
-        "title": "Fusion Resonators",
-        "description": "Fusion attribute Resonators"
-      },
-      {
-        "name": "c_1_0",
-        "title": "Resonators - Version 1",
-        "description": "Resonators from Version 1"
-      }
+      "c_all",
+      "c_rarity_4",
+      "c_att_fus",
+      "c_1_0"
     ],
     "label": "Chixia"
   },
   {
     "filename": "c/dj.webp",
     "tags": [
-      {
-        "name": "c_all",
-        "title": "All Resonators",
-        "description": "All Resonators who have been officially released or announced"
-      },
-      {
-        "name": "c_rarity_4",
-        "title": "4-Star Resonators",
-        "description": "Resonators with a rarity of 4 stars"
-      },
-      {
-        "name": "c_att_hav",
-        "title": "Havoc Resonators",
-        "description": "Havoc attribute Resonators"
-      },
-      {
-        "name": "c_1_0",
-        "title": "Resonators - Version 1",
-        "description": "Resonators from Version 1"
-      }
+      "c_all",
+      "c_rarity_4",
+      "c_att_hav",
+      "c_1_0"
     ],
     "label": "Danjin"
   },
   {
     "filename": "c/ec.webp",
     "tags": [
-      {
-        "name": "c_all",
-        "title": "All Resonators",
-        "description": "All Resonators who have been officially released or announced"
-      },
-      {
-        "name": "c_rarity_5",
-        "title": "5-Star Resonators",
-        "description": "Resonators with a rarity of 5 stars"
-      },
-      {
-        "name": "c_att_fus",
-        "title": "Fusion Resonators",
-        "description": "Fusion attribute Resonators"
-      },
-      {
-        "name": "c_1_0",
-        "title": "Resonators - Version 1",
-        "description": "Resonators from Version 1"
-      }
+      "c_all",
+      "c_rarity_5",
+      "c_att_fus",
+      "c_1_0"
     ],
     "label": "Encore"
   },
   {
     "filename": "c/jx.webp",
     "tags": [
-      {
-        "name": "c_all",
-        "title": "All Resonators",
-        "description": "All Resonators who have been officially released or announced"
-      },
-      {
-        "name": "c_rarity_5",
-        "title": "5-Star Resonators",
-        "description": "Resonators with a rarity of 5 stars"
-      },
-      {
-        "name": "c_att_aer",
-        "title": "Aero Resonators",
-        "description": "Aero attribute Resonators"
-      },
-      {
-        "name": "c_1_0",
-        "title": "Resonators - Version 1",
-        "description": "Resonators from Version 1"
-      }
+      "c_all",
+      "c_rarity_5",
+      "c_att_aer",
+      "c_1_0"
     ],
     "label": "Jianxin"
   },
   {
     "filename": "c/jy.webp",
     "tags": [
-      {
-        "name": "c_all",
-        "title": "All Resonators",
-        "description": "All Resonators who have been officially released or announced"
-      },
-      {
-        "name": "c_rarity_5",
-        "title": "5-Star Resonators",
-        "description": "Resonators with a rarity of 5 stars"
-      },
-      {
-        "name": "c_att_aer",
-        "title": "Aero Resonators",
-        "description": "Aero attribute Resonators"
-      },
-      {
-        "name": "c_1_0",
-        "title": "Resonators - Version 1",
-        "description": "Resonators from Version 1"
-      }
+      "c_all",
+      "c_rarity_5",
+      "c_att_aer",
+      "c_1_0"
     ],
     "label": "Jiyan"
   },
   {
     "filename": "c/ly.webp",
     "tags": [
-      {
-        "name": "c_all",
-        "title": "All Resonators",
-        "description": "All Resonators who have been officially released or announced"
-      },
-      {
-        "name": "c_rarity_5",
-        "title": "5-Star Resonators",
-        "description": "Resonators with a rarity of 5 stars"
-      },
-      {
-        "name": "c_att_gla",
-        "title": "Glacio Resonators",
-        "description": "Glacio attribute Resonators"
-      },
-      {
-        "name": "c_1_0",
-        "title": "Resonators - Version 1",
-        "description": "Resonators from Version 1"
-      }
+      "c_all",
+      "c_rarity_5",
+      "c_att_gla",
+      "c_1_0"
     ],
     "label": "Lingyang"
   },
   {
     "filename": "c/mf.webp",
     "tags": [
-      {
-        "name": "c_all",
-        "title": "All Resonators",
-        "description": "All Resonators who have been officially released or announced"
-      },
-      {
-        "name": "c_rarity_4",
-        "title": "4-Star Resonators",
-        "description": "Resonators with a rarity of 4 stars"
-      },
-      {
-        "name": "c_att_fus",
-        "title": "Fusion Resonators",
-        "description": "Fusion attribute Resonators"
-      },
-      {
-        "name": "c_1_0",
-        "title": "Resonators - Version 1",
-        "description": "Resonators from Version 1"
-      }
+      "c_all",
+      "c_rarity_4",
+      "c_att_fus",
+      "c_1_0"
     ],
     "label": "Mortefi"
   },
   {
     "filename": "c/rm-s.webp",
     "tags": [
-      {
-        "name": "c_all",
-        "title": "All Resonators",
-        "description": "All Resonators who have been officially released or announced"
-      },
-      {
-        "name": "c_rarity_5",
-        "title": "5-Star Resonators",
-        "description": "Resonators with a rarity of 5 stars"
-      },
-      {
-        "name": "c_att_spe",
-        "title": "Spectro Resonators",
-        "description": "Spectro attribute Resonators"
-      },
-      {
-        "name": "c_1_0",
-        "title": "Resonators - Version 1",
-        "description": "Resonators from Version 1"
-      }
+      "c_all",
+      "c_rarity_5",
+      "c_att_spe",
+      "c_1_0"
     ],
     "label": "Rover Spectro"
   },
   {
     "filename": "c/rm-h.webp",
     "tags": [
-      {
-        "name": "c_all",
-        "title": "All Resonators",
-        "description": "All Resonators who have been officially released or announced"
-      },
-      {
-        "name": "c_rarity_5",
-        "title": "5-Star Resonators",
-        "description": "Resonators with a rarity of 5 stars"
-      },
-      {
-        "name": "c_att_hav",
-        "title": "Havoc Resonators",
-        "description": "Havoc attribute Resonators"
-      },
-      {
-        "name": "c_1_0",
-        "title": "Resonators - Version 1",
-        "description": "Resonators from Version 1"
-      }
+      "c_all",
+      "c_rarity_5",
+      "c_att_hav",
+      "c_1_0"
     ],
     "label": "Rover Havoc"
   },
   {
     "filename": "c/sh.webp",
     "tags": [
-      {
-        "name": "c_all",
-        "title": "All Resonators",
-        "description": "All Resonators who have been officially released or announced"
-      },
-      {
-        "name": "c_rarity_4",
-        "title": "4-Star Resonators",
-        "description": "Resonators with a rarity of 4 stars"
-      },
-      {
-        "name": "c_att_gla",
-        "title": "Glacio Resonators",
-        "description": "Glacio attribute Resonators"
-      },
-      {
-        "name": "c_1_0",
-        "title": "Resonators - Version 1",
-        "description": "Resonators from Version 1"
-      }
+      "c_all",
+      "c_rarity_4",
+      "c_att_gla",
+      "c_1_0"
     ],
     "label": "Sanhua"
   },
   {
     "filename": "c/vr.webp",
     "tags": [
-      {
-        "name": "c_all",
-        "title": "All Resonators",
-        "description": "All Resonators who have been officially released or announced"
-      },
-      {
-        "name": "c_rarity_5",
-        "title": "5-Star Resonators",
-        "description": "Resonators with a rarity of 5 stars"
-      },
-      {
-        "name": "c_att_spe",
-        "title": "Spectro Resonators",
-        "description": "Spectro attribute Resonators"
-      },
-      {
-        "name": "c_1_0",
-        "title": "Resonators - Version 1",
-        "description": "Resonators from Version 1"
-      }
+      "c_all",
+      "c_rarity_5",
+      "c_att_spe",
+      "c_1_0"
     ],
     "label": "Verina"
   },
   {
     "filename": "c/yl.webp",
     "tags": [
-      {
-        "name": "c_all",
-        "title": "All Resonators",
-        "description": "All Resonators who have been officially released or announced"
-      },
-      {
-        "name": "c_rarity_5",
-        "title": "5-Star Resonators",
-        "description": "Resonators with a rarity of 5 stars"
-      },
-      {
-        "name": "c_att_ele",
-        "title": "Electro Resonators",
-        "description": "Electro attribute Resonators"
-      },
-      {
-        "name": "c_1_0",
-        "title": "Resonators - Version 1",
-        "description": "Resonators from Version 1"
-      }
+      "c_all",
+      "c_rarity_5",
+      "c_att_ele",
+      "c_1_0"
     ],
     "label": "Yinlin"
   },
   {
     "filename": "c/yw.webp",
     "tags": [
-      {
-        "name": "c_all",
-        "title": "All Resonators",
-        "description": "All Resonators who have been officially released or announced"
-      },
-      {
-        "name": "c_rarity_4",
-        "title": "4-Star Resonators",
-        "description": "Resonators with a rarity of 4 stars"
-      },
-      {
-        "name": "c_att_ele",
-        "title": "Electro Resonators",
-        "description": "Electro attribute Resonators"
-      },
-      {
-        "name": "c_1_0",
-        "title": "Resonators - Version 1",
-        "description": "Resonators from Version 1"
-      }
+      "c_all",
+      "c_rarity_4",
+      "c_att_ele",
+      "c_1_0"
     ],
     "label": "Yuanwu"
   },
   {
     "filename": "c/yy.webp",
     "tags": [
-      {
-        "name": "c_all",
-        "title": "All Resonators",
-        "description": "All Resonators who have been officially released or announced"
-      },
-      {
-        "name": "c_rarity_4",
-        "title": "4-Star Resonators",
-        "description": "Resonators with a rarity of 4 stars"
-      },
-      {
-        "name": "c_att_aer",
-        "title": "Aero Resonators",
-        "description": "Aero attribute Resonators"
-      },
-      {
-        "name": "c_1_0",
-        "title": "Resonators - Version 1",
-        "description": "Resonators from Version 1"
-      }
+      "c_all",
+      "c_rarity_4",
+      "c_att_aer",
+      "c_1_0"
     ],
     "label": "Yangyang"
   },
   {
     "filename": "c/cl.webp",
     "tags": [
-      {
-        "name": "c_all",
-        "title": "All Resonators",
-        "description": "All Resonators who have been officially released or announced"
-      },
-      {
-        "name": "c_rarity_5",
-        "title": "5-Star Resonators",
-        "description": "Resonators with a rarity of 5 stars"
-      },
-      {
-        "name": "c_att_fus",
-        "title": "Fusion Resonators",
-        "description": "Fusion attribute Resonators"
-      },
-      {
-        "name": "c_1_1",
-        "title": "Resonators - Version 1.1",
-        "description": "Resonators from Version 1.1"
-      }
+      "c_all",
+      "c_rarity_5",
+      "c_att_fus",
+      "c_1_1"
     ],
     "label": "Changli"
   },
   {
     "filename": "c/js.webp",
     "tags": [
-      {
-        "name": "c_all",
-        "title": "All Resonators",
-        "description": "All Resonators who have been officially released or announced"
-      },
-      {
-        "name": "c_rarity_5",
-        "title": "5-Star Resonators",
-        "description": "Resonators with a rarity of 5 stars"
-      },
-      {
-        "name": "c_att_spe",
-        "title": "Spectro Resonators",
-        "description": "Spectro attribute Resonators"
-      },
-      {
-        "name": "c_1_1",
-        "title": "Resonators - Version 1.1",
-        "description": "Resonators from Version 1.1"
-      }
+      "c_all",
+      "c_rarity_5",
+      "c_att_spe",
+      "c_1_1"
     ],
     "label": "Jinshi"
   },
   {
     "filename": "c/xy.webp",
     "tags": [
-      {
-        "name": "c_all",
-        "title": "All Resonators",
-        "description": "All Resonators who have been officially released or announced"
-      },
-      {
-        "name": "c_rarity_5",
-        "title": "5-Star Resonators",
-        "description": "Resonators with a rarity of 5 stars"
-      },
-      {
-        "name": "c_att_ele",
-        "title": "Electro Resonators",
-        "description": "Electro attribute Resonators"
-      },
-      {
-        "name": "c_1_2",
-        "title": "Resonators - Version 1.2",
-        "description": "Resonators from Version 1.2"
-      }
+      "c_all",
+      "c_rarity_5",
+      "c_att_ele",
+      "c_1_2"
     ],
     "label": "Xiangli Yao"
   },
   {
     "filename": "c/zz.webp",
     "tags": [
-      {
-        "name": "c_all",
-        "title": "All Resonators",
-        "description": "All Resonators who have been officially released or announced"
-      },
-      {
-        "name": "c_rarity_5",
-        "title": "5-Star Resonators",
-        "description": "Resonators with a rarity of 5 stars"
-      },
-      {
-        "name": "c_att_gla",
-        "title": "Glacio Resonators",
-        "description": "Glacio attribute Resonators"
-      },
-      {
-        "name": "c_1_2",
-        "title": "Resonators - Version 1.2",
-        "description": "Resonators from Version 1.2"
-      }
+      "c_all",
+      "c_rarity_5",
+      "c_att_gla",
+      "c_1_2"
     ],
     "label": "Zhezhi"
   }
