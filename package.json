@@ -1,6 +1,6 @@
 {
   "name": "image-wutheringwaves",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A fan-curated collection of images from Wuthering Waves by Kuro Games (https://wutheringwaves.kurogames.com/). All rights belong to Kuro Games. Contributions are welcome!",
   "main": "src/index.js",
   "files": [
