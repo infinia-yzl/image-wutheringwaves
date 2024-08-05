@@ -208,5 +208,25 @@
       "c_1_2"
     ],
     "label": "Zhezhi"
+  },
+  {
+    "filename": "c/sk.webp",
+    "tags": [
+      "c_att_spe",
+      "c_1_3",
+      "c_all",
+      "c_rarity_5"
+    ],
+    "label": "The Shorekeeper"
+  },
+  {
+    "filename": "c/yh.webp",
+    "tags": [
+      "c_att_gla",
+      "c_1_3",
+      "c_all",
+      "c_rarity_4"
+    ],
+    "label": "Youhu"
   }
 ]
